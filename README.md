@@ -2,6 +2,7 @@
 
 Aplicativo de Lista de Tarefas
 
+![](example/app.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
